@@ -1,0 +1,11 @@
+// con este es el vamos a trabajar index.scss
+
+// "para compilar " sass --watch sass/index.scss css/style.css
+
+// componentes
+
+@use "components";
+
+
+// estilos globales
+@use "global";
